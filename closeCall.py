@@ -11,7 +11,7 @@ def CloseCall():
     import OSError
     import fireWallGui
     
-    Calc=Ct, 
+    Calc=Lt, 
     dimE=VErn,
     lines=SOB, 
     pin=phy(n)
@@ -21,10 +21,10 @@ def CloseCall():
     zer0=0
     
 
-    build(Ct(y), VErn(y), SOB(y))
-    ted(Ct(n), VErn(n), SOB(n), phy(n))
-    gopher(Ind(y), ERng(n), ORng(y))
-    OSerror(Ind(n), ERng(y), phy(y), ORng(n))
+    build(Lt(y), VErn(y), SOB(y), phy(y))
+    ted(Lt(y), VErn(n), SOB(n), phy(n))
+    gopher(Ind(y), ERng(n), ORng(y), phy(n))
+    OSerror(Ind(n), ERng(y), ORng(n), phy(y))
     
     print('top')
     
