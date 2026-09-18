@@ -9,7 +9,7 @@ def moonSeaPlank():
     import rotoFree as apple
     import hash as puff
     import nordIP as butter
-    import conCH as sea
+    import conCH
 
     Kg=PL
     cW=FStr
@@ -23,7 +23,7 @@ def moonSeaPlank():
     apple(PL(d), FStr, Ω(o), Tj(d))
     puff(PL(u), FStr, Ω(z), nP(d))
     butter(GG(n), Sn(u), Ω(o), Tc(u))
-    sea(GG(y), Sn(d), Ω(z), nP(u))
+    conCH(GG(y), Sn(d), Ω(z), nP(u))
     
     BBL, bbF = sum(apple, puff, butter, sea)
     
