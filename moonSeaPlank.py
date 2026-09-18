@@ -20,8 +20,8 @@ def moonSeaPlank():
     Dubz=nP
 
 
-    rotoFree(PL(d), FStr, Ω(o), Tj(d))
-    hash(PL(u), FStr, Ω(z), nP(d))
+    rotoFree(PL(d), FStr(d), Ω(o), Tj(d))
+    hash(PL(u), FStr(u), Ω(z), nP(d))
     nordIP(GG(n), Sn(u), Ω(o), Tc(u))
     conCH(GG(y), Sn(d), Ω(z), nP(u))
     
