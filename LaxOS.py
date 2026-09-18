@@ -44,5 +44,5 @@ def pillaR():
 
 def tensorInt():
     
-    x = Key + B + Ling
+    x = Earl + ants + Ling
     
