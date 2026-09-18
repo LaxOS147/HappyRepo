@@ -50,4 +50,4 @@ def pillaR():
 
 def tensorInt():
     
-    x = P + BG + Hll
+    x = Peak + Hug + Arrow
