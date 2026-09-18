@@ -28,3 +28,5 @@ def moonSeaPlank():
     BBL, bbF = sum(apple, puff, butter, conCH)
     
     return BBL, bbF
+
+moonSeaPlank()
