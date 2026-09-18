@@ -60,4 +60,4 @@ def pillaR():
 
 def tensorInt():
     
-    x = C + L + V
+    x = Atl + Hug + Kev
